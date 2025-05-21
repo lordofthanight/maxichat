@@ -67,7 +67,7 @@
 
 ## 📸 Скриншоты / Прототип
 
-
+![Чат](https://github.com/lordofthanight/maxichat/blob/main/be4f849c-7169-4be2-936f-1d7a68c2a6f5.jpeg)
 
 ---
 
